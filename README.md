@@ -59,7 +59,9 @@ The function get_sentiment() is created to apply sentiment analysis to each twee
 - ﻿As of 3:41 PM when this data was scraped, there were a total of 100 tweets from 22 users across 8 locations, with 3:13 PM being the most frequent time for tweets.
 - Conversation is largely neutral, with some positive responses and very few negative reactions.
 
-  [LisabiReport.pdf](https://github.com/user-attachments/files/18391028/LisabiReport.pdf)
+![lisabiscreenshort](https://github.com/user-attachments/assets/b224dc8a-66a0-4090-b189-d8824fdcce94)
+
+[LisabiReport.pdf](https://github.com/user-attachments/files/18391028/LisabiReport.pdf)
 
   
 ## Task 5: Reccomendation
