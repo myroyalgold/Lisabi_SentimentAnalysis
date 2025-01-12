@@ -58,6 +58,9 @@ The function get_sentiment() is created to apply sentiment analysis to each twee
 - Lisabi is a movie produced by the couple Adedimeji Lateef and Bimpe Adedimeji, and directed by Niyi Akinmolayan.
 - ﻿As of 3:41 PM when this data was scraped, there were a total of 100 tweets from 22 users across 8 locations, with 3:13 PM being the most frequent time for tweets.
 - Conversation is largely neutral, with some positive responses and very few negative reactions.
+
+  [LisabiReport.pdf](https://github.com/user-attachments/files/18391028/LisabiReport.pdf)
+
   
 ## Task 5: Reccomendation
 Based on the sentiment analysis of Lisabi on Twitter, here are some key actions to improve engagement:
