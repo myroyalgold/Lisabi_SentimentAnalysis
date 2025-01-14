@@ -1,5 +1,5 @@
 # LISABI A LEGEND IS BORN SENTIMENT ANALYSIS
-This project means a lot to me as it allows me to explain my seminar topic,'Big Data Analytics for Decision Making,' using social media data. As a data scientist, I have been eager to use the Python programming language to perform sentiment analysis, and this project gave me the perfect opportunity to do so using a new trending movie Lisabi.
+As a data scientist, I have been eager to perform sentiment analysis, and this project gave me the perfect opportunity to do so using a new trending movie Lisabi.
 
 # PROBLEM STATEMENT
 This project was created to test my knowledge and challenge myself on how to scrape data from Twitter using the hashtag #LisabiALegendIsBorn as a case study. I utilized the Twitter API to collect the data and performed a sentiment analysis on what people had to say about the movie released on Netflix on January 10, 2025.
